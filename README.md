@@ -1,20 +1,16 @@
 # arsen_enc
-Berny (or the old name "arsen Encryptor") is a fairly old project that was created around 2021. it used to only be able to generate passwords, but over time more features have been added to it.
+Berny (or the old name "arsen Encryptor") is a volunteer project that was created around 2021. Previously, it was only able to generate passwords, but over time more features were added to it.
+Older versions are also listed on GitHub: they differ in that they consist of a single file and have a console shell, but at the moment the latest versions have their own window with a "friendly" user interface, so it is recommended to use the latest versions. For compatibility, 2 files are used (UI and functionality), but for convenience, future versions will consist of 1 file and 2-3 settings/login/dictionary files
 
-Most likely, old versions will also be posted on GitHub. They differ in that they consist of one file, now for now the new versions will consist of two (for easy use from the command line or otherwise).
+So far, the project lives thanks to interest, and it is not possible to support it yet (although in the future there will be something like bymeacoffee or similar)
 
-So far, the project lives thanks to interest, and it is not possible to support it yet (although I have a diaka, but it is more for my channel and not for raising funds for content improvement and such...)
-
-Wait for the latest versions
-
-
+Stay tuned for the latest versions!
 
 
 Ukr:
-Berny (або стара назва "arsen Encryptor") - доволі старий проект, який був створений приблизно у 2021 році. раніше він вмів тільки генерувати паролі, але протягом часу в нього було додано більше функцій.
+Berny (або стара назва "arsen Encryptor") - добровільний проект, який був створений приблизно у 2021 році. Раніше він вмів тільки генерувати паролі, але протягом часу в нього було додано більше функцій. 
+На GitHub також викладені старі версії: вони відрізняються тим, що вони складаються з одного файлу та мають оболонку консолі, але на даний момент новітні версії мають своє вікно зі "зручним" користувацьким інтерфейсом, тому рекомендовано використовувати останні версії. Для сумісності використовуються 2 файли (UI та функціонал), але за для зручності, майбутні версії будуть складатися з 1 файлу та 2-3 файлів налаштувань/логування/словника
 
-Скоріш за все на GitHub також будуть викладені старі версіх. Вони відрізняються тим, що вони складаються з одного файлу, зараз поки що нові версії будуть складатися з двох (за для легкого використання з під командного рядку чи іншого).
+Поки що проект живе завдяки інтересу, а підтримати поки що неможливо (хоча в майбутньому буже щось на кшталт bymeacoffee чи подібного)
 
-Поки що проект живе завдяки інтересу, а підтримати поки що неможливо (хоча в мене і є diaka, але це більше для мого каналу а не збіру коштів на покращення контенту і таке...)
-
-Очікуйте на новітні версії
+Очікуйте на новітні версії!
